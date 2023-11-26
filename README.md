@@ -1,4 +1,4 @@
-# Ansible role [fips](#fips)
+# [Ansible role fips](#fips)
 
 Install and configure fips on your system.
 
