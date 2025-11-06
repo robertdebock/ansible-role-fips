@@ -5,4 +5,4 @@
 repository:
   description: Install and configure fips on your system.
   homepage: https://robertdebock.nl/
-  topics: fips, infrastructure, linux, security, system, ansible, molecule, tox, playbook
+  topics: fips, infrastructure, linux, security, system, ansible, molecule, playbook
